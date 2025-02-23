@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Phuong Nam</h1>
 <h3 align="center">A passionate Artificial Intelligence from Viet Nam</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2Phuong5Nam4&label=Profile%20views&color=0e75b6&style=flat" alt="2Phuong5Nam4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2Phuong5Nam4&row=1&column=5" alt="2Phuong5Nam4" /></a> </p>
+- 🔭 I’m currently studying in **Data Science**
+
+- 🌱 How to read me **classic.nam78@gmail.com**
+
+- 📫 Know more about me **https://www.linkedin.com/in/phuong-nam-462a31282/**
+
+- ⚡ Fun fact **Love ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) and ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)**
