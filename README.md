@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **2Phuong5Nam4/2Phuong5Nam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Phuong Nam</h1>
+<h3 align="center">A passionate Artificial Intelligence from Viet Nam</h3>
