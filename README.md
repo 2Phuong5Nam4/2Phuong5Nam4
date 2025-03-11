@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 📫 Know more about me **https://www.linkedin.com/in/phuong-nam-462a31282/**
 
-- ⚡ Fun fact **Love ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
